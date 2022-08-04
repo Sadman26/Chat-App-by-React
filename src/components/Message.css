@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+.msg{
+    margin: 15px;
+    background-color: deeppink;
+    width: fit-content;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px black;
+}
+.msg h3{
+    font-family: 'Poppins', sans-serif;
+}
+.msg h4{
+    font-family: 'Source Code Pro', monospace;
+}
+.msg i:hover{
+    color: azure;
+}

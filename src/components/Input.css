@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.Form{
+    text-align: center;
+}
+.Form h1{
+    margin: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+.Form button{
+    margin: 10px;
+    border-style: solid;
+    border-color: black;
+    width: 50px;
+    height: 30px;
+}
+.Form button:hover{
+    background-color: greenyellow;
+}
+.Form textarea{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
